@@ -1,13 +1,20 @@
-# Sample Hardhat Project
+# Fintrust Wallet
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Fintrust is a fundraising platform utilizing the blockchain to ensure massive societal change by enabling people create campaigns and donate funds. On the platform, funds donated are secure and records are transparent. Campaign creators have the tools needed to manage their campaigns, add in signatories and have it before the audience that’s needed.
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+
+## Repo Contributors
+
+- [@ogubuikealex - Blockchain/Backend developer](ogubuikealex@gmail.com)
+
+
+## Tech Stack
+
+**Server:** Solidity,Mumbai Testnet, Hard hat,Web3 storage, EtherJS
+Wagmi, JavaScript,Axios,Chai
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
